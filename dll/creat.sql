@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS User (
+  id       VARCHAR(20),
+  username VARCHAR(20),
+  password VARCHAR(20),
+  PRIMARY KEY (id)
+);
+
+CREATE TABLE IF NOT EXISTS JSON_DATA (
+  id   VARCHAR(20),
+  url  VARCHAR(100),
+  data VARCHAR(4000),
+  PRIMARY KEY (id)
+);

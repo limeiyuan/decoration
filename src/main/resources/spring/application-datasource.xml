@@ -63,7 +63,7 @@
     <mybatis:scan base-package="com.decoration.mapper" />
 
     <aop:config>
-        <aop:pointcut expression="execution(public * com.flyout.service..*Service*.*(..))" id="servicePointcut"/>
+        <aop:pointcut expression="execution(public * com.decoration.service..*Service*.*(..))" id="servicePointcut"/>
         <aop:advisor advice-ref="txAdvice" pointcut-ref="servicePointcut"/>
     </aop:config>
 
