@@ -4,6 +4,14 @@
     <%@include file="./resource.jsp" %>
 </head>
 <body>
+<div class="header">
+    <div class="header-top">
+        <div class="inner-header-top">
+
+        </div>
+    </div>
+</div>
+
 
 
 
