@@ -1,0 +1,22 @@
+.content .vr{
+    width: 100%;
+    height: 874px;
+    background-color: #fff;
+    text-align: center;
+    padding-top: 120px;
+}
+.content  h3 {
+    font-size: 28px;
+    color: #35abfe;
+    margin-bottom: 17px;
+}
+.content .line{
+    margin-bottom: 30px;
+}
+.user-profiles{
+    padding-top: 60px;
+    width: 100%;
+    height: 685px;
+    background-color: #f4fbfe;
+    text-align: center;
+}
