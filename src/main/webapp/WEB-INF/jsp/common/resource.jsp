@@ -11,7 +11,8 @@
     String pagePath = "";
 %>
 <link type="text/css" href="<%=staticPath%>/css/reset.css" rel="stylesheet"/>
-<link type="text/css" href="<%=staticPath%>/css/common.css" rel="stylesheet"/>
+<%--<link type="text/css" href="<%=staticPath%>/css/common.css" rel="stylesheet"/>--%>
+
 <script type="text/javascript">
     var staticPath = "<%=staticPath%>";
     var pagePath = "<%=pagePath%>";
