@@ -7,5 +7,4 @@
 
     <cache type="org.mybatis.caches.redis.RedisCache"/>
 
-    <insert id="saveJsonData" useGeneratedKeys="true" keyColumn="id" keyProperty=""
 </mapper>
