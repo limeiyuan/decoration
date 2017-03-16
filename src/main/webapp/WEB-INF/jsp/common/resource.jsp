@@ -10,7 +10,7 @@
     String staticPath = "";
     String pagePath = "";
 %>
-<link type="text/css" href="<%=staticPath%>/css/reset.css" rel="stylesheet"/>
+<link type="text/css" href="<%=staticPath%>/css/common/reset.css" rel="stylesheet"/>
 <%--<link type="text/css" href="<%=staticPath%>/css/common.css" rel="stylesheet"/>--%>
 
 <script type="text/javascript">
