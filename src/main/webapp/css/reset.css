@@ -52,6 +52,22 @@ img {
     border: 0;
     max-width: 100%;
 }
+
+/*公共类*/
+.w {
+    /*版心 提取 */
+    width: 1200px;
+    margin: 0 auto;
+}
+.fl {
+    float: left
+}
+.fr {
+    float: right
+}
+.hide {
+    display: none
+}
 .clearfix:after{
     content: ".";
     display: block;
